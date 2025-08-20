@@ -27,15 +27,13 @@ The dataset includes demographics, academic background, scholarships, language p
 - **Excel:** Pivot tables, slicers, and interactive dashboards  
 
 ## Project Structure  
-├── data/ # Dataset (student migration records)
-├── python-analysis/ # Python scripts and notebooks
-├── sql-analysis/ # SQL queries and scripts
-├── excel-dashboard/ # Excel pivot tables and dashboards
-└── README.md # Documentation
 
-markdown
-Copy
-Edit
+├── data/                  # Dataset (student migration records)
+├── python-analysis/       # Python scripts and notebooks
+├── sql-analysis/          # SQL queries and scripts
+├── excel-dashboard/       # Excel pivot tables and dashboards
+└── README.md              # Documentation
+
 
 ## Workflow  
 
